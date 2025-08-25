@@ -108,3 +108,6 @@ If you prefer not to use Docker, you can set up the environment locally:
 - **Camelot for Table Detection**: Employ Camelot for fast and precise table extraction from digitally native PDFs. It excels at parsing tables defined by either clear grid lines or consistent whitespace alignment but is not suitable for scanned (image-based) documents or tables with highly unconventional layouts.
 - **Classical CV Methods for Image-Based Detection**: For scanned documents, apply classical computer vision techniques. Methods like Line Detection (using Hough Transform), Contour Detection (finding cell shapes), or Projection Profiling (analyzing pixel histograms) can identify table structures directly from the image.
 
+## Example of work
+
+<video src="example/coxit-test.mp4" controls="controls" style="max-width: 720px;"></video>
