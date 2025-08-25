@@ -110,4 +110,4 @@ If you prefer not to use Docker, you can set up the environment locally:
 
 ## Example of work
 
-<video src="example/coxit-test.mp4" controls="controls" style="max-width: 720px;"></video>
+![exAMPLE](example/coxit-test.gif)
